@@ -1,4 +1,5 @@
-
+const fs = require('fs');
+fs.writeFile(db.json,data);
 let noteTitle;
 let noteText;
 let saveNoteBtn;
