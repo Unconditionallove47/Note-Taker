@@ -1,3 +1,42 @@
+Created by Kalif P.
+Collaboration: Nate G. helped me on discord with an HTML fix as well as 2 BCS learning assistance over slack.
+A project to take and store notes with full backend and frontend service.
+uses FS to store ad retrieve information for th enotes so it wont reset on pageload or be stored in local storage.
+Uses heroku to as a page instead of github pages
+Functionally will always stay up because it is build on heroku.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 11 Express.js: Note Taker
 
 ## Your Task
