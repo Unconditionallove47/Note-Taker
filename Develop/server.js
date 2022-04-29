@@ -19,7 +19,7 @@ app.get('/api/notes', (req, res) =>
 
 // GET Route for feedback page
 app.get('/api/notes', (req, res) =>
-  res.sendFile(path.join(__dirname, '/db.json'))
+  res.readFile(path.join(__dirname, '/db.json'))
 );
 
 app.post('/api/notes', (req, res) => {
