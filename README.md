@@ -1,3 +1,6 @@
+https://vast-ridge-35448.herokuapp.com/ DEPLOYED LINK FOR Heroku
+
+
 Created by Kalif P.
 Collaboration: Nate G. helped me on discord with an HTML fix as well as 2 BCS learning assistance over slack.
 A project to take and store notes with full backend and frontend service.
